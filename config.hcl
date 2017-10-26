@@ -48,4 +48,4 @@ vault {
 # [Optional] [Default: 0] [Allowed values: 0, 1]
 # Set to 1 to disable mlock. Implementation is similar to vault - see vault docs for details
 # This option will be ignored on unsupported platforms (e.g Windows)
-disable_mlock = 0
+disable_mlock = 1
